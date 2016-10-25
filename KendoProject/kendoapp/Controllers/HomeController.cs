@@ -11,7 +11,7 @@ namespace kendoapp.Controllers
         // GET: Home
         public string Index()
         {
-            return "ABCD";
+            return "GitHub testing";
         }
     }
 }
