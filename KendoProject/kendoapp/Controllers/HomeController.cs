@@ -13,5 +13,11 @@ namespace kendoapp.Controllers
         {
             return "GitHub testing";
         }
+
+        public string Out()
+        {
+
+            return "another function";
+        }
     }
 }
